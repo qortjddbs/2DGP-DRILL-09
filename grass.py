@@ -1,5 +1,5 @@
 from pico2d import load_image
-
+import game_world
 
 class Grass:
     def __init__(self):
